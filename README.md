@@ -1,5 +1,5 @@
-
- Olá, sou wendell xavier
+# 👋 Hello! Welcome to my Github profile.
+## My name is wendell xavier and my nickname is "wendellxavier"!
 
  - 🌱 System analysis and development student
  - 📫 E-mail: wendell_xw20@hotmail.com
