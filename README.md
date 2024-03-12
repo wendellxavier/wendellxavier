@@ -1,6 +1,9 @@
 
  Olá, sou wendell xavier
 
+ - 🌱 System analysis and development student
+ - 📫 E-mail: wendell_xw20@hotmail.com
+ - ⚡ focused on evolving
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
