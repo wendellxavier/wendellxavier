@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github+profile." alt="Typing SVG" /></a>
 ## My name is wendell xavier and my nickname is "wendellxavier"!
 
  - 🌱 System analysis and development student
